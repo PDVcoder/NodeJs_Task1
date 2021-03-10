@@ -1,0 +1,13 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "task2",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"It works!!!\")"
+  },
+  "author": "Paievskyi Dmytro",
+  "license": "ISC"
+}
